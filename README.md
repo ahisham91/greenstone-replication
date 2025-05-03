@@ -1,0 +1,3 @@
+Aggregate Response function between Annual Mortality Rate and Average Daily Temperatures.
+This code replicates the results in the paper "The Effect of Temperature on Mortality in the United States: New Evidence from the National Health Interview Survey" by Deschenes and Greenstone (2007).
+The data is from the National Health Interview Survey (NHIS) and the temperature data is from the National Oceanic and Atmospheric Administration (NOAA).
